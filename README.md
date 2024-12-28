@@ -1,4 +1,4 @@
-<img src="https://ibb.co/KGyhRC1/image.jpg" alt="banner">
+<img src="https://i.ibb.co/6ZswV6d/21a7c6d3-8316-48c2-86d4-579c05ae5a41.webp" alt="banner">
 <h1 align="center"><img src="![received_1106676897823577](https://github.com/user-attachments/assets/c25d3249-5962-4126-92b4-347e874b7bf5)
 " width="22px"> Telegram Bot V1</h1>
 
